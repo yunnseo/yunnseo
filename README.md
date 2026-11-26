@@ -1,3 +1,5 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yunnseo&utm_content=line"><img src="https://render.gitanimals.org/lines/yunnseo" width="600" alt="Git Animals"/></a>
+
 # 안녕하세요, 정윤서입니다 👋
 
 사람을 이해하는 마음에서 출발해 **UX, 프로덕트 디자인, 그리고 그로스 마케팅**까지 일해 온 정윤서입니다.
